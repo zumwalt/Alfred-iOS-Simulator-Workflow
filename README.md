@@ -17,4 +17,4 @@ Download and open file using [Alfred 2](http://www.alfredapp.com/). You’ll nee
 
 ## License
 
-[MIT License](http://zenorocha.mit-license.org/) © Zeno Rocha
+[MIT License](http://casey.mit-license.org/) © Casey Zumwalt
