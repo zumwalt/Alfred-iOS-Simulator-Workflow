@@ -11,7 +11,7 @@ Download and open file using [Alfred 2](http://www.alfredapp.com/). You’ll nee
 
 ## Usage
 
-> Trigger: `iOS`
+> Trigger: `ios`
 
 ![image](https://cloud.githubusercontent.com/assets/786943/4496908/652b2cbc-4a6a-11e4-9686-f7329bb17786.png)
 
