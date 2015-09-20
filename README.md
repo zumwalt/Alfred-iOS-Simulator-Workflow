@@ -7,7 +7,7 @@ A simple workflow for launching the iOS Simulator on Yosemite.
 
 ## Install
 
-Download and open file using [Alfred 2](http://www.alfredapp.com/). You’ll need to [buy the Powerpack](https://buy.alfredapp.com/) **and** have Xcode 6 installed in order to use this workflow. [More information on installing Xcode](https://developer.apple.com/xcode/downloads/).
+Download and open file using [Alfred 2](http://www.alfredapp.com/). You’ll need to [buy the Powerpack](https://buy.alfredapp.com/) **and** have Xcode 7 installed in order to use this workflow. [More information on installing Xcode](https://developer.apple.com/xcode/downloads/).
 
 ## Usage
 
